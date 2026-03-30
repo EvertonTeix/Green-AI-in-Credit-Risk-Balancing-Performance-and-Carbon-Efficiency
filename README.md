@@ -47,21 +47,26 @@ Each dataset was evaluated under **11 scenarios**:
 
 ## 📊 Datasets
 
-The experiments were conducted using three real-world credit risk datasets:
+The experiments were conducted using three real-world datasets from the credit risk domain:
 
 - **German Credit Dataset**  
   - 1,000 instances  
-  - Binary classification (good/bad credit)
+  - Binary classification (good vs. bad credit risk)  
+  - 🔗 [Download Dataset](https://drive.google.com/file/d/12aV_MLniH3blI3hM44GONxNENSwPc7sc/view?usp=sharing)
 
 - **Bondora Peer-to-Peer Lending**  
   - 179,235 instances  
-  - Financial + demographic features
+  - Financial and demographic features  
+  - 🔗 [Download Dataset](https://drive.google.com/file/d/1gR5RGl1F02l5bpeelWzMj-l-HNJVN_Dv/view?usp=sharing)
 
 - **XYZ Corp Lending Dataset**  
   - 855,969 instances  
-  - Large-scale lending data
+  - Large-scale lending data for robustness evaluation  
+  - 🔗 [Download Dataset](https://drive.google.com/file/d/1aM3tXrDz03xiY1f4-SdzjtoN206GeIxF/view?usp=sharing)
 
 ---
+
+> All datasets are publicly available and were preprocessed to ensure consistency and reproducibility across experiments.
 
 ## ⚙️ Methodology
 
